@@ -1,0 +1,26 @@
+{
+  "name": "b-bastian/my-demo",
+  "type": "project",
+  "license": "MIT",
+  "autoload": {
+    "psr-4": {
+      "BBastian\\MyDemo\\": "src/"
+    }
+  },
+  "authors": [
+    {
+      "name": "b-bastian",
+      "email": "bbrugger@schueler.hakzell.at"
+    }
+  ],
+  "repositories": [
+    {
+      "type": "git",
+      "url": "https://github.com/b-bastian/url-slugify"
+    }
+  ],
+  "minimum-stability": "dev",
+  "require": {
+    "b-bastian/url-slugify": "v1.0.0"
+  }
+}
