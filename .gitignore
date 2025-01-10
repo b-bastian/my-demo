@@ -1,3 +1,5 @@
 .vs
 .idea
 vendor
+composer
+vendor/composer
