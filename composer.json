@@ -22,6 +22,6 @@
   "minimum-stability": "dev",
   "prefer-stable": true,
   "require": {
-    "b-bastian/url-slugify": "v1.0.0"
+    "b-bastian/my-demo": "dev-main"
   }
 }
