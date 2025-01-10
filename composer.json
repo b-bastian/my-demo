@@ -16,10 +16,11 @@
   "repositories": [
     {
       "type": "git",
-      "url": "https://github.com/b-bastian/url-slugify"
+      "url": "https://github.com/b-bastian/my-demo"
     }
   ],
   "minimum-stability": "dev",
+  "prefer-stable": true,
   "require": {
     "b-bastian/url-slugify": "v1.0.0"
   }
