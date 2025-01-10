@@ -3,7 +3,7 @@
         'name' => 'b-bastian/my-demo',
         'pretty_version' => 'dev-main',
         'version' => 'dev-main',
-        'reference' => 'e522f754bdb8199d35fe8359717d4c8e3a042974',
+        'reference' => 'a6fddb9ef3faa46f2281fcb5357bf5e28e58e25f',
         'type' => 'project',
         'install_path' => __DIR__ . '/../../',
         'aliases' => array(),
@@ -13,7 +13,7 @@
         'b-bastian/my-demo' => array(
             'pretty_version' => 'dev-main',
             'version' => 'dev-main',
-            'reference' => 'e522f754bdb8199d35fe8359717d4c8e3a042974',
+            'reference' => 'a6fddb9ef3faa46f2281fcb5357bf5e28e58e25f',
             'type' => 'project',
             'install_path' => __DIR__ . '/../../',
             'aliases' => array(),
