@@ -1,6 +1,6 @@
 {
   "name": "b-bastian/my-demo",
-  "type": "project",
+  "type": "library",
   "license": "MIT",
   "autoload": {
     "psr-4": {
@@ -11,12 +11,6 @@
     {
       "name": "b-bastian",
       "email": "bbrugger@schueler.hakzell.at"
-    }
-  ],
-  "repositories": [
-    {
-      "type": "git",
-      "url": "https://github.com/b-bastian/my-demo"
     }
   ],
   "minimum-stability": "dev",
