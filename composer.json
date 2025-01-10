@@ -20,8 +20,5 @@
     }
   ],
   "minimum-stability": "dev",
-  "prefer-stable": true,
-  "require": {
-    "b-bastian/my-demo": "dev-main"
-  }
+  "prefer-stable": true
 }
